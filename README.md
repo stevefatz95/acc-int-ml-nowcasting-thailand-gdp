@@ -9,17 +9,17 @@ Pseudo real-time framework for GDP nowcasting in Thailand using machine learning
 ```
 ├── README.md
 ├── requirements.txt
-├── data-collection/
+├── 01-data-collection/
 │ ├── data/ # Datasets used for data collection
 │ └── data-collection-thai-gdp-nowcasting.ipynb
-├── data-preprocessing/
+├── 02-data-preprocessing/
 │ ├── data/ # Datasets after preprocessing
 │ └── data-preprocessing-nowcasting-thai-gdp.ipynb
-├── modelling/
+├── 03-modelling/
 │ ├── data/ # Datasets used for modelling
 │ └── modelling-nowcasting-thai-gdp-dec.ipynb
 │ └── modelling-nowcasting-thai-gdp-jan.ipynb
-├── evaluation/
+├── 04-evaluation/
   ├── data/ # Datasets used for evaluation
   └── evaluation-nowcasting-thai-gdp.ipynb
 ```
