@@ -1,0 +1,613 @@
+series_code,series_name,quarter,value
+PFCG000000M000651,Total Government Expenditure,2011Q1,559102.174730431
+PFCG000000M000651,Total Government Expenditure,2011Q2,528789.77692122
+PFCG000000M000651,Total Government Expenditure,2011Q3,533218.39883765
+PFCG000000M000651,Total Government Expenditure,2011Q4,363429.704380108
+PFCG000000M000651,Total Government Expenditure,2012Q1,770159.035676617
+PFCG000000M000651,Total Government Expenditure,2012Q2,588316.950265588
+PFCG000000M000651,Total Government Expenditure,2012Q3,610009.784982732
+PFCG000000M000651,Total Government Expenditure,2012Q4,578721.4650866541
+PFCG000000M000651,Total Government Expenditure,2013Q1,603433.914344643
+PFCG000000M000651,Total Government Expenditure,2013Q2,614037.1839706129
+PFCG000000M000651,Total Government Expenditure,2013Q3,604329.894584245
+PFCG000000M000651,Total Government Expenditure,2013Q4,609147.401357214
+PFCG000000M000651,Total Government Expenditure,2014Q1,624498.0666336131
+PFCG000000M000651,Total Government Expenditure,2014Q2,607537.3337058381
+PFCG000000M000651,Total Government Expenditure,2014Q3,608140.312527037
+PFCG000000M000651,Total Government Expenditure,2014Q4,582289.19226292
+PFCG000000M000651,Total Government Expenditure,2015Q1,630506.912569607
+PFCG000000M000651,Total Government Expenditure,2015Q2,637145.0849348
+PFCG000000M000651,Total Government Expenditure,2015Q3,643272.234847317
+PFCG000000M000651,Total Government Expenditure,2015Q4,638345.405145805
+PFCG000000M000651,Total Government Expenditure,2016Q1,691220.711389971
+PFCG000000M000651,Total Government Expenditure,2016Q2,726126.103124204
+PFCG000000M000651,Total Government Expenditure,2016Q3,644525.000688572
+PFCG000000M000651,Total Government Expenditure,2016Q4,665027.787760827
+PFCG000000M000651,Total Government Expenditure,2017Q1,685785.992906684
+PFCG000000M000651,Total Government Expenditure,2017Q2,715030.972511475
+PFCG000000M000651,Total Government Expenditure,2017Q3,698036.013737052
+PFCG000000M000651,Total Government Expenditure,2017Q4,702406.321535825
+PFCG000000M000651,Total Government Expenditure,2018Q1,653045.550993179
+PFCG000000M000651,Total Government Expenditure,2018Q2,796353.275899826
+PFCG000000M000651,Total Government Expenditure,2018Q3,712903.764394316
+PFCG000000M000651,Total Government Expenditure,2018Q4,702230.876516665
+PFCG000000M000651,Total Government Expenditure,2019Q1,767531.5015135601
+PFCG000000M000651,Total Government Expenditure,2019Q2,696048.209963117
+PFCG000000M000651,Total Government Expenditure,2019Q3,763384.009746314
+PFCG000000M000651,Total Government Expenditure,2019Q4,666295.825656165
+EIBSIM00060,Business Sentiment Index of Investment,2011Q1,57.209254769888936
+EIBSIM00060,Business Sentiment Index of Investment,2011Q2,56.875895614505765
+EIBSIM00060,Business Sentiment Index of Investment,2011Q3,56.408295449256535
+EIBSIM00060,Business Sentiment Index of Investment,2011Q4,51.18520943120924
+EIBSIM00060,Business Sentiment Index of Investment,2012Q1,56.3869951849615
+EIBSIM00060,Business Sentiment Index of Investment,2012Q2,57.2680408484865
+EIBSIM00060,Business Sentiment Index of Investment,2012Q3,57.384947256587765
+EIBSIM00060,Business Sentiment Index of Investment,2012Q4,57.55968089743457
+EIBSIM00060,Business Sentiment Index of Investment,2013Q1,57.1596821393859
+EIBSIM00060,Business Sentiment Index of Investment,2013Q2,56.5328300274368
+EIBSIM00060,Business Sentiment Index of Investment,2013Q3,55.375774174643304
+EIBSIM00060,Business Sentiment Index of Investment,2013Q4,54.01572855337917
+EIBSIM00060,Business Sentiment Index of Investment,2014Q1,52.03184105224153
+EIBSIM00060,Business Sentiment Index of Investment,2014Q2,51.67852635368427
+EIBSIM00060,Business Sentiment Index of Investment,2014Q3,53.7001999445802
+EIBSIM00060,Business Sentiment Index of Investment,2014Q4,53.68195594740734
+EIBSIM00060,Business Sentiment Index of Investment,2015Q1,53.88964368904624
+EIBSIM00060,Business Sentiment Index of Investment,2015Q2,54.12132573202293
+EIBSIM00060,Business Sentiment Index of Investment,2015Q3,52.3013840006598
+EIBSIM00060,Business Sentiment Index of Investment,2015Q4,53.65650684282773
+EIBSIM00060,Business Sentiment Index of Investment,2016Q1,54.00539447014003
+EIBSIM00060,Business Sentiment Index of Investment,2016Q2,55.598999102934236
+EIBSIM00060,Business Sentiment Index of Investment,2016Q3,55.9945494269117
+EIBSIM00060,Business Sentiment Index of Investment,2016Q4,56.7027643973562
+EIBSIM00060,Business Sentiment Index of Investment,2017Q1,56.5614831009842
+EIBSIM00060,Business Sentiment Index of Investment,2017Q2,55.80412348757796
+EIBSIM00060,Business Sentiment Index of Investment,2017Q3,55.08805294309909
+EIBSIM00060,Business Sentiment Index of Investment,2017Q4,55.981050028644866
+EIBSIM00060,Business Sentiment Index of Investment,2018Q1,57.172135480851836
+EIBSIM00060,Business Sentiment Index of Investment,2018Q2,56.63706612387727
+EIBSIM00060,Business Sentiment Index of Investment,2018Q3,56.551080048924725
+EIBSIM00060,Business Sentiment Index of Investment,2018Q4,57.10538782754717
+EIBSIM00060,Business Sentiment Index of Investment,2019Q1,55.58286820696123
+EIBSIM00060,Business Sentiment Index of Investment,2019Q2,55.784089609816306
+EIBSIM00060,Business Sentiment Index of Investment,2019Q3,55.005692684150034
+EIBSIM00060,Business Sentiment Index of Investment,2019Q4,54.5840467777123
+EIBSIOTHM00445,Other Business Sentiment Indices Export conditions,2011Q1,52.21216114780174
+EIBSIOTHM00445,Other Business Sentiment Indices Export conditions,2011Q2,51.4273157011408
+EIBSIOTHM00445,Other Business Sentiment Indices Export conditions,2011Q3,52.27094523333417
+EIBSIOTHM00445,Other Business Sentiment Indices Export conditions,2011Q4,42.2467036182191
+EIBSIOTHM00445,Other Business Sentiment Indices Export conditions,2012Q1,49.8663303807058
+EIBSIOTHM00445,Other Business Sentiment Indices Export conditions,2012Q2,49.02269473561253
+EIBSIOTHM00445,Other Business Sentiment Indices Export conditions,2012Q3,47.9875972538267
+EIBSIOTHM00445,Other Business Sentiment Indices Export conditions,2012Q4,48.053061001606004
+EIBSIOTHM00445,Other Business Sentiment Indices Export conditions,2013Q1,48.92934163919937
+EIBSIOTHM00445,Other Business Sentiment Indices Export conditions,2013Q2,47.908872214181294
+EIBSIOTHM00445,Other Business Sentiment Indices Export conditions,2013Q3,46.582902138592864
+EIBSIOTHM00445,Other Business Sentiment Indices Export conditions,2013Q4,47.752977353545
+EIBSIOTHM00445,Other Business Sentiment Indices Export conditions,2014Q1,48.83006726035853
+EIBSIOTHM00445,Other Business Sentiment Indices Export conditions,2014Q2,49.362802875115904
+EIBSIOTHM00445,Other Business Sentiment Indices Export conditions,2014Q3,51.68346502967546
+EIBSIOTHM00445,Other Business Sentiment Indices Export conditions,2014Q4,49.78657987416897
+EIBSIOTHM00445,Other Business Sentiment Indices Export conditions,2015Q1,49.117814141301636
+EIBSIOTHM00445,Other Business Sentiment Indices Export conditions,2015Q2,47.66967538321703
+EIBSIOTHM00445,Other Business Sentiment Indices Export conditions,2015Q3,44.0627160795265
+EIBSIOTHM00445,Other Business Sentiment Indices Export conditions,2015Q4,49.02102577146817
+EIBSIOTHM00445,Other Business Sentiment Indices Export conditions,2016Q1,45.09587904663213
+EIBSIOTHM00445,Other Business Sentiment Indices Export conditions,2016Q2,49.18554361288407
+EIBSIOTHM00445,Other Business Sentiment Indices Export conditions,2016Q3,47.11493241092156
+EIBSIOTHM00445,Other Business Sentiment Indices Export conditions,2016Q4,48.83546162550713
+EIBSIOTHM00445,Other Business Sentiment Indices Export conditions,2017Q1,48.682063566468535
+EIBSIOTHM00445,Other Business Sentiment Indices Export conditions,2017Q2,49.2593013939125
+EIBSIOTHM00445,Other Business Sentiment Indices Export conditions,2017Q3,51.069676982442
+EIBSIOTHM00445,Other Business Sentiment Indices Export conditions,2017Q4,50.63958091089199
+EIBSIOTHM00445,Other Business Sentiment Indices Export conditions,2018Q1,49.067264739715235
+EIBSIOTHM00445,Other Business Sentiment Indices Export conditions,2018Q2,49.88009197409446
+EIBSIOTHM00445,Other Business Sentiment Indices Export conditions,2018Q3,49.196919016208106
+EIBSIOTHM00445,Other Business Sentiment Indices Export conditions,2018Q4,47.045703173252235
+EIBSIOTHM00445,Other Business Sentiment Indices Export conditions,2019Q1,46.085658754316036
+EIBSIOTHM00445,Other Business Sentiment Indices Export conditions,2019Q2,46.59051400041383
+EIBSIOTHM00445,Other Business Sentiment Indices Export conditions,2019Q3,44.36877348299887
+EIBSIOTHM00445,Other Business Sentiment Indices Export conditions,2019Q4,39.9460202071382
+EICEIM00002,Import Volume Index (exclude Gold),2011Q1,91.69766213013217
+EICEIM00002,Import Volume Index (exclude Gold),2011Q2,91.99353549540064
+EICEIM00002,Import Volume Index (exclude Gold),2011Q3,96.4317200022386
+EICEIM00002,Import Volume Index (exclude Gold),2011Q4,86.20914736605253
+EICEIM00002,Import Volume Index (exclude Gold),2012Q1,94.98823362608027
+EICEIM00002,Import Volume Index (exclude Gold),2012Q2,100.45048445708858
+EICEIM00002,Import Volume Index (exclude Gold),2012Q3,101.94130535381886
+EICEIM00002,Import Volume Index (exclude Gold),2012Q4,102.66236230597367
+EICEIM00002,Import Volume Index (exclude Gold),2013Q1,102.8848436795616
+EICEIM00002,Import Volume Index (exclude Gold),2013Q2,104.62953274764233
+EICEIM00002,Import Volume Index (exclude Gold),2013Q3,96.91964082015704
+EICEIM00002,Import Volume Index (exclude Gold),2013Q4,97.85713873853399
+EICEIM00002,Import Volume Index (exclude Gold),2014Q1,95.9826054831322
+EICEIM00002,Import Volume Index (exclude Gold),2014Q2,94.4709251555462
+EICEIM00002,Import Volume Index (exclude Gold),2014Q3,97.43023494252702
+EICEIM00002,Import Volume Index (exclude Gold),2014Q4,97.68397192413825
+EICEIM00002,Import Volume Index (exclude Gold),2015Q1,98.31426584842484
+EICEIM00002,Import Volume Index (exclude Gold),2015Q2,94.81301223723715
+EICEIM00002,Import Volume Index (exclude Gold),2015Q3,94.62922089358416
+EICEIM00002,Import Volume Index (exclude Gold),2015Q4,93.31482807400994
+EICEIM00002,Import Volume Index (exclude Gold),2016Q1,91.8315614822475
+EICEIM00002,Import Volume Index (exclude Gold),2016Q2,92.20248725314913
+EICEIM00002,Import Volume Index (exclude Gold),2016Q3,94.59007455038955
+EICEIM00002,Import Volume Index (exclude Gold),2016Q4,96.43452830030412
+EICEIM00002,Import Volume Index (exclude Gold),2017Q1,95.7142446480322
+EICEIM00002,Import Volume Index (exclude Gold),2017Q2,97.874488725359
+EICEIM00002,Import Volume Index (exclude Gold),2017Q3,99.9011075488642
+EICEIM00002,Import Volume Index (exclude Gold),2017Q4,102.35658465387907
+EICEIM00002,Import Volume Index (exclude Gold),2018Q1,104.818031647743
+EICEIM00002,Import Volume Index (exclude Gold),2018Q2,106.91859934866933
+EICEIM00002,Import Volume Index (exclude Gold),2018Q3,106.73217663677967
+EICEIM00002,Import Volume Index (exclude Gold),2018Q4,108.057569328471
+EICEIM00002,Import Volume Index (exclude Gold),2019Q1,105.15866013636101
+EICEIM00002,Import Volume Index (exclude Gold),2019Q2,102.56694485169022
+EICEIM00002,Import Volume Index (exclude Gold),2019Q3,102.64361346892633
+EICEIM00002,Import Volume Index (exclude Gold),2019Q4,98.9204052377713
+EIEXTHBM00152,Export Value Index (THB),2011Q1,4.787388825585197
+EIEXTHBM00152,Export Value Index (THB),2011Q2,-0.2878504379697991
+EIEXTHBM00152,Export Value Index (THB),2011Q3,0.5463346703754676
+EIEXTHBM00152,Export Value Index (THB),2011Q4,-4.259882005709069
+EIEXTHBM00152,Export Value Index (THB),2012Q1,2.694728498394767
+EIEXTHBM00152,Export Value Index (THB),2012Q2,1.4785866371909673
+EIEXTHBM00152,Export Value Index (THB),2012Q3,0.3898486605726674
+EIEXTHBM00152,Export Value Index (THB),2012Q4,-1.5642746435712003
+EIEXTHBM00152,Export Value Index (THB),2013Q1,-0.3231048736193003
+EIEXTHBM00152,Export Value Index (THB),2013Q2,-0.44531475039973145
+EIEXTHBM00152,Export Value Index (THB),2013Q3,0.9504488456012012
+EIEXTHBM00152,Export Value Index (THB),2013Q4,1.7906106374936996
+EIEXTHBM00152,Export Value Index (THB),2014Q1,-0.1515461720803349
+EIEXTHBM00152,Export Value Index (THB),2014Q2,0.4087522776370018
+EIEXTHBM00152,Export Value Index (THB),2014Q3,-1.0230193539113326
+EIEXTHBM00152,Export Value Index (THB),2014Q4,1.7391554687786623
+EIEXTHBM00152,Export Value Index (THB),2015Q1,-2.4225300028877306
+EIEXTHBM00152,Export Value Index (THB),2015Q2,-0.24821463210080216
+EIEXTHBM00152,Export Value Index (THB),2015Q3,2.815718778492202
+EIEXTHBM00152,Export Value Index (THB),2015Q4,-0.576089314823335
+EIEXTHBM00152,Export Value Index (THB),2016Q1,0.467896992285669
+EIEXTHBM00152,Export Value Index (THB),2016Q2,0.06417948816233358
+EIEXTHBM00152,Export Value Index (THB),2016Q3,-0.11292966104333384
+EIEXTHBM00152,Export Value Index (THB),2016Q4,1.6241797378056664
+EIEXTHBM00152,Export Value Index (THB),2017Q1,2.053822312992665
+EIEXTHBM00152,Export Value Index (THB),2017Q2,-2.504505030377331
+EIEXTHBM00152,Export Value Index (THB),2017Q3,1.9989239855256642
+EIEXTHBM00152,Export Value Index (THB),2017Q4,-1.6274564707613308
+EIEXTHBM00152,Export Value Index (THB),2018Q1,0.694076228057663
+EIEXTHBM00152,Export Value Index (THB),2018Q2,1.0345101575276676
+EIEXTHBM00152,Export Value Index (THB),2018Q3,-2.4483320037196656
+EIEXTHBM00152,Export Value Index (THB),2018Q4,0.5869498589626687
+EIEXTHBM00152,Export Value Index (THB),2019Q1,-0.3143842488233351
+EIEXTHBM00152,Export Value Index (THB),2019Q2,-0.30782249093233344
+EIEXTHBM00152,Export Value Index (THB),2019Q3,-2.847483988919
+EIEXTHBM00152,Export Value Index (THB),2019Q4,5.304715071252005
+EIIMTHBM00155,Import Value Index (THB),2011Q1,2.8453681390155006
+EIIMTHBM00155,Import Value Index (THB),2011Q2,-0.06431914030476567
+EIIMTHBM00155,Import Value Index (THB),2011Q3,3.3028123443417647
+EIIMTHBM00155,Import Value Index (THB),2011Q4,-0.9019341845310341
+EIIMTHBM00155,Import Value Index (THB),2012Q1,5.678609977469033
+EIIMTHBM00155,Import Value Index (THB),2012Q2,-4.859422283447998
+EIIMTHBM00155,Import Value Index (THB),2012Q3,-1.3073918953776342
+EIIMTHBM00155,Import Value Index (THB),2012Q4,0.812063353781601
+EIIMTHBM00155,Import Value Index (THB),2013Q1,-0.2824649870312328
+EIIMTHBM00155,Import Value Index (THB),2013Q2,0.19678883712373363
+EIIMTHBM00155,Import Value Index (THB),2013Q3,-1.6506992347066358
+EIIMTHBM00155,Import Value Index (THB),2013Q4,0.5462393676978697
+EIIMTHBM00155,Import Value Index (THB),2014Q1,-0.29030755055683716
+EIIMTHBM00155,Import Value Index (THB),2014Q2,-1.5909353123511636
+EIIMTHBM00155,Import Value Index (THB),2014Q3,5.243276222417634
+EIIMTHBM00155,Import Value Index (THB),2014Q4,-5.4345285503955365
+EIIMTHBM00155,Import Value Index (THB),2015Q1,0.28977042718826834
+EIIMTHBM00155,Import Value Index (THB),2015Q2,1.427736264090034
+EIIMTHBM00155,Import Value Index (THB),2015Q3,-0.021989798063235828
+EIIMTHBM00155,Import Value Index (THB),2015Q4,-1.707077954190865
+EIIMTHBM00155,Import Value Index (THB),2016Q1,-0.18887767513243622
+EIIMTHBM00155,Import Value Index (THB),2016Q2,0.302698265703403
+EIIMTHBM00155,Import Value Index (THB),2016Q3,0.869760078754131
+EIIMTHBM00155,Import Value Index (THB),2016Q4,1.551950305016869
+EIIMTHBM00155,Import Value Index (THB),2017Q1,2.649618527692032
+EIIMTHBM00155,Import Value Index (THB),2017Q2,-2.589733257077332
+EIIMTHBM00155,Import Value Index (THB),2017Q3,-1.0523086182803354
+EIIMTHBM00155,Import Value Index (THB),2017Q4,2.429115755432335
+EIIMTHBM00155,Import Value Index (THB),2018Q1,0.5229303828213338
+EIIMTHBM00155,Import Value Index (THB),2018Q2,0.5291135099609979
+EIIMTHBM00155,Import Value Index (THB),2018Q3,0.3077845055970035
+EIIMTHBM00155,Import Value Index (THB),2018Q4,-3.8880895765614696
+EIIMTHBM00155,Import Value Index (THB),2019Q1,1.5807426832778333
+EIIMTHBM00155,Import Value Index (THB),2019Q2,-2.536124355568101
+EIIMTHBM00155,Import Value Index (THB),2019Q3,1.1375470130945662
+EIIMTHBM00155,Import Value Index (THB),2019Q4,-2.0810413159008903
+EILEIM00011,Export Volume Index (exclude Gold),2011Q1,99.18070312511894
+EILEIM00011,Export Volume Index (exclude Gold),2011Q2,100.52541716073527
+EILEIM00011,Export Volume Index (exclude Gold),2011Q3,105.39879001592067
+EILEIM00011,Export Volume Index (exclude Gold),2011Q4,89.98448064870506
+EILEIM00011,Export Volume Index (exclude Gold),2012Q1,95.94286376958117
+EILEIM00011,Export Volume Index (exclude Gold),2012Q2,102.95685337796
+EILEIM00011,Export Volume Index (exclude Gold),2012Q3,99.56056690712042
+EILEIM00011,Export Volume Index (exclude Gold),2012Q4,101.50574507948666
+EILEIM00011,Export Volume Index (exclude Gold),2013Q1,103.64312572280566
+EILEIM00011,Export Volume Index (exclude Gold),2013Q2,101.88544376366467
+EILEIM00011,Export Volume Index (exclude Gold),2013Q3,100.6715138968756
+EILEIM00011,Export Volume Index (exclude Gold),2013Q4,100.6878234711026
+EILEIM00011,Export Volume Index (exclude Gold),2014Q1,102.02219546431
+EILEIM00011,Export Volume Index (exclude Gold),2014Q2,102.85927855292867
+EILEIM00011,Export Volume Index (exclude Gold),2014Q3,102.357026776427
+EILEIM00011,Export Volume Index (exclude Gold),2014Q4,104.21101047409532
+EILEIM00011,Export Volume Index (exclude Gold),2015Q1,102.19355680308166
+EILEIM00011,Export Volume Index (exclude Gold),2015Q2,100.71189065544543
+EILEIM00011,Export Volume Index (exclude Gold),2015Q3,100.27789824043619
+EILEIM00011,Export Volume Index (exclude Gold),2015Q4,99.07005541674567
+EILEIM00011,Export Volume Index (exclude Gold),2016Q1,97.20047042878123
+EILEIM00011,Export Volume Index (exclude Gold),2016Q2,97.89476890624157
+EILEIM00011,Export Volume Index (exclude Gold),2016Q3,99.3772192533162
+EILEIM00011,Export Volume Index (exclude Gold),2016Q4,100.71454790861463
+EILEIM00011,Export Volume Index (exclude Gold),2017Q1,103.004875895795
+EILEIM00011,Export Volume Index (exclude Gold),2017Q2,103.71655874447534
+EILEIM00011,Export Volume Index (exclude Gold),2017Q3,107.23656370081399
+EILEIM00011,Export Volume Index (exclude Gold),2017Q4,108.75111054502433
+EILEIM00011,Export Volume Index (exclude Gold),2018Q1,110.95278269394299
+EILEIM00011,Export Volume Index (exclude Gold),2018Q2,112.204983870194
+EILEIM00011,Export Volume Index (exclude Gold),2018Q3,110.87355668323333
+EILEIM00011,Export Volume Index (exclude Gold),2018Q4,108.694939068902
+EILEIM00011,Export Volume Index (exclude Gold),2019Q1,106.47239782007667
+EILEIM00011,Export Volume Index (exclude Gold),2019Q2,105.37912687368468
+EILEIM00011,Export Volume Index (exclude Gold),2019Q3,104.80289658231901
+EILEIM00011,Export Volume Index (exclude Gold),2019Q4,104.931010999212
+EINEERM00071,Nominal Effective Exchange Rate (NEER),2011Q1,-1.5188052549820696
+EINEERM00071,Nominal Effective Exchange Rate (NEER),2011Q2,0.0395010545903034
+EINEERM00071,Nominal Effective Exchange Rate (NEER),2011Q3,0.4905211420547649
+EINEERM00071,Nominal Effective Exchange Rate (NEER),2011Q4,-0.2422999192800006
+EINEERM00071,Nominal Effective Exchange Rate (NEER),2012Q1,0.3659464410229442
+EINEERM00071,Nominal Effective Exchange Rate (NEER),2012Q2,0.5225581092411531
+EINEERM00071,Nominal Effective Exchange Rate (NEER),2012Q3,0.3302829812513295
+EINEERM00071,Nominal Effective Exchange Rate (NEER),2012Q4,0.42501067620100247
+EINEERM00071,Nominal Effective Exchange Rate (NEER),2013Q1,1.4442038559109989
+EINEERM00071,Nominal Effective Exchange Rate (NEER),2013Q2,-0.34746701029299726
+EINEERM00071,Nominal Effective Exchange Rate (NEER),2013Q3,-0.4943273635470007
+EINEERM00071,Nominal Effective Exchange Rate (NEER),2013Q4,-0.6485371679043368
+EINEERM00071,Nominal Effective Exchange Rate (NEER),2014Q1,-0.7003569051716644
+EINEERM00071,Nominal Effective Exchange Rate (NEER),2014Q2,0.43039504368266535
+EINEERM00071,Nominal Effective Exchange Rate (NEER),2014Q3,1.0794611893763364
+EINEERM00071,Nominal Effective Exchange Rate (NEER),2014Q4,0.8338372307929992
+EINEERM00071,Nominal Effective Exchange Rate (NEER),2015Q1,0.9056120204916643
+EINEERM00071,Nominal Effective Exchange Rate (NEER),2015Q2,-0.6970038586146643
+EINEERM00071,Nominal Effective Exchange Rate (NEER),2015Q3,-1.1426481544933342
+EINEERM00071,Nominal Effective Exchange Rate (NEER),2015Q4,0.03709480388266684
+EINEERM00071,Nominal Effective Exchange Rate (NEER),2016Q1,-0.21106815888133212
+EINEERM00071,Nominal Effective Exchange Rate (NEER),2016Q2,-0.007460186722335986
+EINEERM00071,Nominal Effective Exchange Rate (NEER),2016Q3,0.404110474862667
+EINEERM00071,Nominal Effective Exchange Rate (NEER),2016Q4,0.36271925796066756
+EINEERM00071,Nominal Effective Exchange Rate (NEER),2017Q1,0.17585561032866792
+EINEERM00071,Nominal Effective Exchange Rate (NEER),2017Q2,0.8302850327509977
+EINEERM00071,Nominal Effective Exchange Rate (NEER),2017Q3,0.28020709507833413
+EINEERM00071,Nominal Effective Exchange Rate (NEER),2017Q4,0.5589193424563348
+EINEERM00071,Nominal Effective Exchange Rate (NEER),2018Q1,0.5776031031976648
+EINEERM00071,Nominal Effective Exchange Rate (NEER),2018Q2,-0.00893949623399711
+EINEERM00071,Nominal Effective Exchange Rate (NEER),2018Q3,0.8663059648599992
+EINEERM00071,Nominal Effective Exchange Rate (NEER),2018Q4,-0.21512049784467044
+EINEERM00071,Nominal Effective Exchange Rate (NEER),2019Q1,0.8257763984080005
+EINEERM00071,Nominal Effective Exchange Rate (NEER),2019Q2,1.2214981260373368
+EINEERM00071,Nominal Effective Exchange Rate (NEER),2019Q3,1.111451046805333
+EINEERM00071,Nominal Effective Exchange Rate (NEER),2019Q4,0.47189282858499837
+EIPCIM00063,Private Consumption Index (Seasonally Adjusted) ,2011Q1,0.7166666666666686
+EIPCIM00063,Private Consumption Index (Seasonally Adjusted) ,2011Q2,-0.5233333333333358
+EIPCIM00063,Private Consumption Index (Seasonally Adjusted) ,2011Q3,0.8566666666666691
+EIPCIM00063,Private Consumption Index (Seasonally Adjusted) ,2011Q4,-1.033333333333336
+EIPCIM00063,Private Consumption Index (Seasonally Adjusted) ,2012Q1,2.3366666666666682
+EIPCIM00063,Private Consumption Index (Seasonally Adjusted) ,2012Q2,0.8666666666666648
+EIPCIM00063,Private Consumption Index (Seasonally Adjusted) ,2012Q3,0.6500000000000009
+EIPCIM00063,Private Consumption Index (Seasonally Adjusted) ,2012Q4,0.09666666666666875
+EIPCIM00063,Private Consumption Index (Seasonally Adjusted) ,2013Q1,0.6266666666666652
+EIPCIM00063,Private Consumption Index (Seasonally Adjusted) ,2013Q2,-0.8900000000000006
+EIPCIM00063,Private Consumption Index (Seasonally Adjusted) ,2013Q3,0.253333333333335
+EIPCIM00063,Private Consumption Index (Seasonally Adjusted) ,2013Q4,-0.45000000000000284
+EIPCIM00063,Private Consumption Index (Seasonally Adjusted) ,2014Q1,0.3166666666666676
+EIPCIM00063,Private Consumption Index (Seasonally Adjusted) ,2014Q2,0.17333333333333675
+EIPCIM00063,Private Consumption Index (Seasonally Adjusted) ,2014Q3,-0.1300000000000002
+EIPCIM00063,Private Consumption Index (Seasonally Adjusted) ,2014Q4,0.13999999999999582
+EIPCIM00063,Private Consumption Index (Seasonally Adjusted) ,2015Q1,0.50666666666667
+EIPCIM00063,Private Consumption Index (Seasonally Adjusted) ,2015Q2,-0.28333333333333616
+EIPCIM00063,Private Consumption Index (Seasonally Adjusted) ,2015Q3,0.50666666666667
+EIPCIM00063,Private Consumption Index (Seasonally Adjusted) ,2015Q4,0.5366666666666665
+EIPCIM00063,Private Consumption Index (Seasonally Adjusted) ,2016Q1,0.28333333333333144
+EIPCIM00063,Private Consumption Index (Seasonally Adjusted) ,2016Q2,0.0500000000000019
+EIPCIM00063,Private Consumption Index (Seasonally Adjusted) ,2016Q3,0.29333333333333184
+EIPCIM00063,Private Consumption Index (Seasonally Adjusted) ,2016Q4,0.9000000000000009
+EIPCIM00063,Private Consumption Index (Seasonally Adjusted) ,2017Q1,0.3333333333333333
+EIPCIM00063,Private Consumption Index (Seasonally Adjusted) ,2017Q2,-0.5666666666666677
+EIPCIM00063,Private Consumption Index (Seasonally Adjusted) ,2017Q3,0.39333333333333087
+EIPCIM00063,Private Consumption Index (Seasonally Adjusted) ,2017Q4,-0.04999999999999716
+EIPCIM00063,Private Consumption Index (Seasonally Adjusted) ,2018Q1,0.8299999999999983
+EIPCIM00063,Private Consumption Index (Seasonally Adjusted) ,2018Q2,-0.6083333333333414
+EIPCIM00063,Private Consumption Index (Seasonally Adjusted) ,2018Q3,0.733333333333339
+EIPCIM00063,Private Consumption Index (Seasonally Adjusted) ,2018Q4,-1.226666666666669
+EIPCIM00063,Private Consumption Index (Seasonally Adjusted) ,2019Q1,0.2466666666666697
+EIPCIM00063,Private Consumption Index (Seasonally Adjusted) ,2019Q2,1.2133333333333287
+EIPCIM00063,Private Consumption Index (Seasonally Adjusted) ,2019Q3,-0.7033333333333379
+EIPCIM00063,Private Consumption Index (Seasonally Adjusted) ,2019Q4,0.9000000000000057
+EIPIIM00052,Private Investment Index (PII) (Seasonally Adjusted),2011Q1,3.2666666666666706
+EIPIIM00052,Private Investment Index (PII) (Seasonally Adjusted),2011Q2,-0.5
+EIPIIM00052,Private Investment Index (PII) (Seasonally Adjusted),2011Q3,0.3333333333333333
+EIPIIM00052,Private Investment Index (PII) (Seasonally Adjusted),2011Q4,2.900000000000001
+EIPIIM00052,Private Investment Index (PII) (Seasonally Adjusted),2012Q1,3.199999999999998
+EIPIIM00052,Private Investment Index (PII) (Seasonally Adjusted),2012Q2,1.0666666666666675
+EIPIIM00052,Private Investment Index (PII) (Seasonally Adjusted),2012Q3,-0.9000000000000009
+EIPIIM00052,Private Investment Index (PII) (Seasonally Adjusted),2012Q4,2.2333333333333294
+EIPIIM00052,Private Investment Index (PII) (Seasonally Adjusted),2013Q1,-1.0333333333333314
+EIPIIM00052,Private Investment Index (PII) (Seasonally Adjusted),2013Q2,-0.8999999999999962
+EIPIIM00052,Private Investment Index (PII) (Seasonally Adjusted),2013Q3,-0.6666666666666666
+EIPIIM00052,Private Investment Index (PII) (Seasonally Adjusted),2013Q4,1.2666666666666657
+EIPIIM00052,Private Investment Index (PII) (Seasonally Adjusted),2014Q1,-1.2000000000000028
+EIPIIM00052,Private Investment Index (PII) (Seasonally Adjusted),2014Q2,0.40000000000000097
+EIPIIM00052,Private Investment Index (PII) (Seasonally Adjusted),2014Q3,1.9333333333333325
+EIPIIM00052,Private Investment Index (PII) (Seasonally Adjusted),2014Q4,-0.1999999999999981
+EIPIIM00052,Private Investment Index (PII) (Seasonally Adjusted),2015Q1,-1.2333333333333343
+EIPIIM00052,Private Investment Index (PII) (Seasonally Adjusted),2015Q2,0.6666666666666666
+EIPIIM00052,Private Investment Index (PII) (Seasonally Adjusted),2015Q3,-0.03333333333333144
+EIPIIM00052,Private Investment Index (PII) (Seasonally Adjusted),2015Q4,0.40000000000000097
+EIPIIM00052,Private Investment Index (PII) (Seasonally Adjusted),2016Q1,0.266666666666661
+EIPIIM00052,Private Investment Index (PII) (Seasonally Adjusted),2016Q2,-0.6333333333333305
+EIPIIM00052,Private Investment Index (PII) (Seasonally Adjusted),2016Q3,0.09999999999999905
+EIPIIM00052,Private Investment Index (PII) (Seasonally Adjusted),2016Q4,0.8666666666666648
+EIPIIM00052,Private Investment Index (PII) (Seasonally Adjusted),2017Q1,1.0666666666666724
+EIPIIM00052,Private Investment Index (PII) (Seasonally Adjusted),2017Q2,-1.1999999999999982
+EIPIIM00052,Private Investment Index (PII) (Seasonally Adjusted),2017Q3,0.6666666666666666
+EIPIIM00052,Private Investment Index (PII) (Seasonally Adjusted),2017Q4,-0.6333333333333352
+EIPIIM00052,Private Investment Index (PII) (Seasonally Adjusted),2018Q1,1.1666666666666667
+EIPIIM00052,Private Investment Index (PII) (Seasonally Adjusted),2018Q2,1.1666666666666667
+EIPIIM00052,Private Investment Index (PII) (Seasonally Adjusted),2018Q3,-1.6000000000000039
+EIPIIM00052,Private Investment Index (PII) (Seasonally Adjusted),2018Q4,-0.5333333333333314
+EIPIIM00052,Private Investment Index (PII) (Seasonally Adjusted),2019Q1,-0.03333333333333144
+EIPIIM00052,Private Investment Index (PII) (Seasonally Adjusted),2019Q2,-0.36666666666666475
+EIPIIM00052,Private Investment Index (PII) (Seasonally Adjusted),2019Q3,0.03333333333333144
+EIPIIM00052,Private Investment Index (PII) (Seasonally Adjusted),2019Q4,1.5999999999999943
+EIREERM00072,Real Effective Exchange Rate (REER),2011Q1,-1.5026741000498731
+EIREERM00072,Real Effective Exchange Rate (REER),2011Q2,0.25203487828369947
+EIREERM00072,Real Effective Exchange Rate (REER),2011Q3,0.4111960448431328
+EIREERM00072,Real Effective Exchange Rate (REER),2011Q4,-0.22472101873823172
+EIREERM00072,Real Effective Exchange Rate (REER),2012Q1,0.4975678283720697
+EIREERM00072,Real Effective Exchange Rate (REER),2012Q2,0.7451249436029622
+EIREERM00072,Real Effective Exchange Rate (REER),2012Q3,0.49094458863299906
+EIREERM00072,Real Effective Exchange Rate (REER),2012Q4,0.48870506982800066
+EIREERM00072,Real Effective Exchange Rate (REER),2013Q1,1.2058233393713351
+EIREERM00072,Real Effective Exchange Rate (REER),2013Q2,-0.44296742949266843
+EIREERM00072,Real Effective Exchange Rate (REER),2013Q3,-0.6734854113743296
+EIREERM00072,Real Effective Exchange Rate (REER),2013Q4,-0.5150107185386711
+EIREERM00072,Real Effective Exchange Rate (REER),2014Q1,-0.7210778934173305
+EIREERM00072,Real Effective Exchange Rate (REER),2014Q2,0.2795126581863343
+EIREERM00072,Real Effective Exchange Rate (REER),2014Q3,0.8521044365930001
+EIREERM00072,Real Effective Exchange Rate (REER),2014Q4,0.6190865122173316
+EIREERM00072,Real Effective Exchange Rate (REER),2015Q1,0.5655506617063347
+EIREERM00072,Real Effective Exchange Rate (REER),2015Q2,0.2094274508274978
+EIREERM00072,Real Effective Exchange Rate (REER),2015Q3,-1.2898389528083338
+EIREERM00072,Real Effective Exchange Rate (REER),2015Q4,-0.11167543530433004
+EIREERM00072,Real Effective Exchange Rate (REER),2016Q1,-0.31252865860533535
+EIREERM00072,Real Effective Exchange Rate (REER),2016Q2,0.05510361219966834
+EIREERM00072,Real Effective Exchange Rate (REER),2016Q3,0.19790526374233272
+EIREERM00072,Real Effective Exchange Rate (REER),2016Q4,0.3175874715836642
+EIREERM00072,Real Effective Exchange Rate (REER),2017Q1,-0.05111848807266502
+EIREERM00072,Real Effective Exchange Rate (REER),2017Q2,0.6262432223479996
+EIREERM00072,Real Effective Exchange Rate (REER),2017Q3,0.32004675131733507
+EIREERM00072,Real Effective Exchange Rate (REER),2017Q4,0.4325788012550002
+EIREERM00072,Real Effective Exchange Rate (REER),2018Q1,0.2781894649026668
+EIREERM00072,Real Effective Exchange Rate (REER),2018Q2,0.006180254609333247
+EIREERM00072,Real Effective Exchange Rate (REER),2018Q3,0.7905442292279995
+EIREERM00072,Real Effective Exchange Rate (REER),2018Q4,-0.42606044182333375
+EIREERM00072,Real Effective Exchange Rate (REER),2019Q1,0.8341102827889983
+EIREERM00072,Real Effective Exchange Rate (REER),2019Q2,0.9426918950953365
+EIREERM00072,Real Effective Exchange Rate (REER),2019Q3,0.861528169049663
+EIREERM00072,Real Effective Exchange Rate (REER),2019Q4,0.7979180062519902
+EISPIM00507,Service Production Index Wholesale and retail trade,2011Q1,-0.420355861728666
+EISPIM00507,Service Production Index Wholesale and retail trade,2011Q2,-2.2538841868623365
+EISPIM00507,Service Production Index Wholesale and retail trade,2011Q3,-1.2478558040849965
+EISPIM00507,Service Production Index Wholesale and retail trade,2011Q4,-0.5204547902842336
+EISPIM00507,Service Production Index Wholesale and retail trade,2012Q1,-0.9644082338770374
+EISPIM00507,Service Production Index Wholesale and retail trade,2012Q2,2.8241532281646045
+EISPIM00507,Service Production Index Wholesale and retail trade,2012Q3,1.2171845948783329
+EISPIM00507,Service Production Index Wholesale and retail trade,2012Q4,-1.6048015819483368
+EISPIM00507,Service Production Index Wholesale and retail trade,2013Q1,2.7693617933510004
+EISPIM00507,Service Production Index Wholesale and retail trade,2013Q2,-2.8424763538113305
+EISPIM00507,Service Production Index Wholesale and retail trade,2013Q3,0.4004034651186667
+EISPIM00507,Service Production Index Wholesale and retail trade,2013Q4,-3.1751147380440017
+EISPIM00507,Service Production Index Wholesale and retail trade,2014Q1,-2.3434407171604335
+EISPIM00507,Service Production Index Wholesale and retail trade,2014Q2,-0.7332179840082986
+EISPIM00507,Service Production Index Wholesale and retail trade,2014Q3,-0.1035273693860006
+EISPIM00507,Service Production Index Wholesale and retail trade,2014Q4,-0.3348479339703327
+EISPIM00507,Service Production Index Wholesale and retail trade,2015Q1,-0.628496388774001
+EISPIM00507,Service Production Index Wholesale and retail trade,2015Q2,1.7938360566193314
+EISPIM00507,Service Production Index Wholesale and retail trade,2015Q3,-1.2979244192063344
+EISPIM00507,Service Production Index Wholesale and retail trade,2015Q4,0.4797692972330007
+EISPIM00507,Service Production Index Wholesale and retail trade,2016Q1,2.695929348385666
+EISPIM00507,Service Production Index Wholesale and retail trade,2016Q2,-1.987225567488333
+EISPIM00507,Service Production Index Wholesale and retail trade,2016Q3,-0.29503577462800007
+EISPIM00507,Service Production Index Wholesale and retail trade,2016Q4,1.2811747901800032
+EISPIM00507,Service Production Index Wholesale and retail trade,2017Q1,-0.7439503974693338
+EISPIM00507,Service Production Index Wholesale and retail trade,2017Q2,2.0566738745206643
+EISPIM00507,Service Production Index Wholesale and retail trade,2017Q3,0.6061024784026662
+EISPIM00507,Service Production Index Wholesale and retail trade,2017Q4,1.8804712312206675
+EISPIM00507,Service Production Index Wholesale and retail trade,2018Q1,0.020148731410335092
+EISPIM00507,Service Production Index Wholesale and retail trade,2018Q2,0.8202779409853349
+EISPIM00507,Service Production Index Wholesale and retail trade,2018Q3,-0.7702679126683355
+EISPIM00507,Service Production Index Wholesale and retail trade,2018Q4,0.3275308224746614
+EISPIM00507,Service Production Index Wholesale and retail trade,2019Q1,0.1291904047780008
+EISPIM00507,Service Production Index Wholesale and retail trade,2019Q2,-2.0849290858776612
+EISPIM00507,Service Production Index Wholesale and retail trade,2019Q3,-2.127196890532337
+EISPIM00507,Service Production Index Wholesale and retail trade,2019Q4,0.3889200961669985
+EISPIM00511,"Service Production Index Real estate, renting and business activities",2011Q1,1.720852343215867
+EISPIM00511,"Service Production Index Real estate, renting and business activities",2011Q2,2.0018434090156347
+EISPIM00511,"Service Production Index Real estate, renting and business activities",2011Q3,1.701017067931332
+EISPIM00511,"Service Production Index Real estate, renting and business activities",2011Q4,-2.994258724467997
+EISPIM00511,"Service Production Index Real estate, renting and business activities",2012Q1,-7.859420326984157
+EISPIM00511,"Service Production Index Real estate, renting and business activities",2012Q2,1.266900950039665
+EISPIM00511,"Service Production Index Real estate, renting and business activities",2012Q3,0.8681491640519994
+EISPIM00511,"Service Production Index Real estate, renting and business activities",2012Q4,-0.437962690357665
+EISPIM00511,"Service Production Index Real estate, renting and business activities",2013Q1,0.40570260100300004
+EISPIM00511,"Service Production Index Real estate, renting and business activities",2013Q2,1.3476471829433336
+EISPIM00511,"Service Production Index Real estate, renting and business activities",2013Q3,0.06731521431666465
+EISPIM00511,"Service Production Index Real estate, renting and business activities",2013Q4,-0.43222096089499945
+EISPIM00511,"Service Production Index Real estate, renting and business activities",2014Q1,-2.284172813835331
+EISPIM00511,"Service Production Index Real estate, renting and business activities",2014Q2,2.5569860227957752
+EISPIM00511,"Service Production Index Real estate, renting and business activities",2014Q3,-0.1294855429267745
+EISPIM00511,"Service Production Index Real estate, renting and business activities",2014Q4,0.2869679062219935
+EISPIM00511,"Service Production Index Real estate, renting and business activities",2015Q1,3.9325735555043386
+EISPIM00511,"Service Production Index Real estate, renting and business activities",2015Q2,-0.37010293697133534
+EISPIM00511,"Service Production Index Real estate, renting and business activities",2015Q3,0.9003984591936671
+EISPIM00511,"Service Production Index Real estate, renting and business activities",2015Q4,1.3857812297483367
+EISPIM00511,"Service Production Index Real estate, renting and business activities",2016Q1,-2.416154085388333
+EISPIM00511,"Service Production Index Real estate, renting and business activities",2016Q2,0.7958549198803269
+EISPIM00511,"Service Production Index Real estate, renting and business activities",2016Q3,0.6712877255980061
+EISPIM00511,"Service Production Index Real estate, renting and business activities",2016Q4,-0.7725095814730025
+EISPIM00511,"Service Production Index Real estate, renting and business activities",2017Q1,2.333892660796001
+EISPIM00511,"Service Production Index Real estate, renting and business activities",2017Q2,4.05677566595233
+EISPIM00511,"Service Production Index Real estate, renting and business activities",2017Q3,-2.6372858290139995
+EISPIM00511,"Service Production Index Real estate, renting and business activities",2017Q4,6.732123280208005
+EISPIM00511,"Service Production Index Real estate, renting and business activities",2018Q1,-1.703848777444667
+EISPIM00511,"Service Production Index Real estate, renting and business activities",2018Q2,12.825377007678995
+EISPIM00511,"Service Production Index Real estate, renting and business activities",2018Q3,11.59986315886284
+EISPIM00511,"Service Production Index Real estate, renting and business activities",2018Q4,-1.088347560576447
+EISPIM00511,"Service Production Index Real estate, renting and business activities",2019Q1,-6.693890570027226
+EISPIM00511,"Service Production Index Real estate, renting and business activities",2019Q2,-10.031704375532167
+EISPIM00511,"Service Production Index Real estate, renting and business activities",2019Q3,0.17556340299199746
+EISPIM00511,"Service Production Index Real estate, renting and business activities",2019Q4,9.686184546188997
+EITRADERETM00384,Retail Sales Index,2011Q1,1.0774369089530087
+EITRADERETM00384,Retail Sales Index,2011Q2,2.613061968736995
+EITRADERETM00384,Retail Sales Index,2011Q3,4.122846393951666
+EITRADERETM00384,Retail Sales Index,2011Q4,0.7984533580576615
+EITRADERETM00384,Retail Sales Index,2012Q1,10.535784237251002
+EITRADERETM00384,Retail Sales Index,2012Q2,4.603218225458666
+EITRADERETM00384,Retail Sales Index,2012Q3,1.9326049516699964
+EITRADERETM00384,Retail Sales Index,2012Q4,-2.801819673771329
+EITRADERETM00384,Retail Sales Index,2013Q1,2.955260481539663
+EITRADERETM00384,Retail Sales Index,2013Q2,-2.714794398985996
+EITRADERETM00384,Retail Sales Index,2013Q3,-1.1501571636183314
+EITRADERETM00384,Retail Sales Index,2013Q4,-3.064148029835669
+EITRADERETM00384,Retail Sales Index,2014Q1,-0.3312986365923318
+EITRADERETM00384,Retail Sales Index,2014Q2,-0.583762966355664
+EITRADERETM00384,Retail Sales Index,2014Q3,2.8698436444183337
+EITRADERETM00384,Retail Sales Index,2014Q4,-2.9163634399216676
+EITRADERETM00384,Retail Sales Index,2015Q1,-1.373734418267001
+EITRADERETM00384,Retail Sales Index,2015Q2,1.9849542904443354
+EITRADERETM00384,Retail Sales Index,2015Q3,0.5381397403189965
+EITRADERETM00384,Retail Sales Index,2015Q4,3.910358993762666
+EITRADERETM00384,Retail Sales Index,2016Q1,-3.536158064423669
+EITRADERETM00384,Retail Sales Index,2016Q2,0.8686048653090003
+EITRADERETM00384,Retail Sales Index,2016Q3,-1.010291407309334
+EITRADERETM00384,Retail Sales Index,2016Q4,3.1509277722979996
+EITRADERETM00384,Retail Sales Index,2017Q1,2.5216910655686697
+EITRADERETM00384,Retail Sales Index,2017Q2,-0.6185317622260035
+EITRADERETM00384,Retail Sales Index,2017Q3,1.7484941938566674
+EITRADERETM00384,Retail Sales Index,2017Q4,-0.12998056785432746
+EITRADERETM00384,Retail Sales Index,2018Q1,2.1276746077416626
+EITRADERETM00384,Retail Sales Index,2018Q2,2.079805028435999
+EITRADERETM00384,Retail Sales Index,2018Q3,3.8747057937290017
+EITRADERETM00384,Retail Sales Index,2018Q4,1.1366821391736721
+EITRADERETM00384,Retail Sales Index,2019Q1,0.9498606452863214
+EITRADERETM00384,Retail Sales Index,2019Q2,0.08571911656101368
+EITRADERETM00384,Retail Sales Index,2019Q3,-2.7566760268723365
+EITRADERETM00384,Retail Sales Index,2019Q4,-3.1895204432580044
+EITRADERETM00391,Retail Sales Index Durable Goods,2011Q1,2.0920221391716702
+EITRADERETM00391,Retail Sales Index Durable Goods,2011Q2,0.9281130957316653
+EITRADERETM00391,Retail Sales Index Durable Goods,2011Q3,1.6451796797103289
+EITRADERETM00391,Retail Sales Index Durable Goods,2011Q4,1.9325951512171666
+EITRADERETM00391,Retail Sales Index Durable Goods,2012Q1,1.5250864418343326
+EITRADERETM00391,Retail Sales Index Durable Goods,2012Q2,1.0002489192150013
+EITRADERETM00391,Retail Sales Index Durable Goods,2012Q3,-0.6850149753686688
+EITRADERETM00391,Retail Sales Index Durable Goods,2012Q4,0.12913981594633128
+EITRADERETM00391,Retail Sales Index Durable Goods,2013Q1,-0.6202423871056624
+EITRADERETM00391,Retail Sales Index Durable Goods,2013Q2,0.024636332852660797
+EITRADERETM00391,Retail Sales Index Durable Goods,2013Q3,0.14186313553400018
+EITRADERETM00391,Retail Sales Index Durable Goods,2013Q4,-0.8347885840106622
+EITRADERETM00391,Retail Sales Index Durable Goods,2014Q1,-2.9253359628310043
+EITRADERETM00391,Retail Sales Index Durable Goods,2014Q2,2.5397765648853388
+EITRADERETM00391,Retail Sales Index Durable Goods,2014Q3,1.2577588571829967
+EITRADERETM00391,Retail Sales Index Durable Goods,2014Q4,1.0944414262490056
+EITRADERETM00391,Retail Sales Index Durable Goods,2015Q1,-1.17294575808567
+EITRADERETM00391,Retail Sales Index Durable Goods,2015Q2,0.14125295914533353
+EITRADERETM00391,Retail Sales Index Durable Goods,2015Q3,0.21030320877033168
+EITRADERETM00391,Retail Sales Index Durable Goods,2015Q4,0.27915672442833284
+EITRADERETM00391,Retail Sales Index Durable Goods,2016Q1,0.5674686401163361
+EITRADERETM00391,Retail Sales Index Durable Goods,2016Q2,-1.1267828550026688
+EITRADERETM00391,Retail Sales Index Durable Goods,2016Q3,-0.7611286163776659
+EITRADERETM00391,Retail Sales Index Durable Goods,2016Q4,4.260798951777332
+EITRADERETM00391,Retail Sales Index Durable Goods,2017Q1,-3.050532355359337
+EITRADERETM00391,Retail Sales Index Durable Goods,2017Q2,-0.3618341061709979
+EITRADERETM00391,Retail Sales Index Durable Goods,2017Q3,2.857973372942998
+EITRADERETM00391,Retail Sales Index Durable Goods,2017Q4,-0.10083463700865991
+EITRADERETM00391,Retail Sales Index Durable Goods,2018Q1,-1.0442174931766697
+EITRADERETM00391,Retail Sales Index Durable Goods,2018Q2,2.1643139648300007
+EITRADERETM00391,Retail Sales Index Durable Goods,2018Q3,-1.2771074187520053
+EITRADERETM00391,Retail Sales Index Durable Goods,2018Q4,-1.1674709538769907
+EITRADERETM00391,Retail Sales Index Durable Goods,2019Q1,0.7134433515136607
+EITRADERETM00391,Retail Sales Index Durable Goods,2019Q2,-1.1227129145493298
+EITRADERETM00391,Retail Sales Index Durable Goods,2019Q3,-1.0285204564560029
+EITRADERETM00391,Retail Sales Index Durable Goods,2019Q4,-2.0174469043359977
+EITRADEWHOM00426,Wholesales Index Durable Goods,2011Q1,-14.088878932392324
+EITRADEWHOM00426,Wholesales Index Durable Goods,2011Q2,14.535376678259325
+EITRADEWHOM00426,Wholesales Index Durable Goods,2011Q3,25.53078741456768
+EITRADEWHOM00426,Wholesales Index Durable Goods,2011Q4,-20.042186936865345
+EITRADEWHOM00426,Wholesales Index Durable Goods,2012Q1,13.191391768655336
+EITRADEWHOM00426,Wholesales Index Durable Goods,2012Q2,1.8658044771940088
+EITRADEWHOM00426,Wholesales Index Durable Goods,2012Q3,10.381451854069326
+EITRADEWHOM00426,Wholesales Index Durable Goods,2012Q4,-16.965664778574336
+EITRADEWHOM00426,Wholesales Index Durable Goods,2013Q1,11.881153091424673
+EITRADEWHOM00426,Wholesales Index Durable Goods,2013Q2,-14.58207640575634
+EITRADEWHOM00426,Wholesales Index Durable Goods,2013Q3,-6.480876100909332
+EITRADEWHOM00426,Wholesales Index Durable Goods,2013Q4,-2.6887908114703314
+EITRADEWHOM00426,Wholesales Index Durable Goods,2014Q1,-4.5024271362116695
+EITRADEWHOM00426,Wholesales Index Durable Goods,2014Q2,-3.3980763285206685
+EITRADEWHOM00426,Wholesales Index Durable Goods,2014Q3,7.855610077248666
+EITRADEWHOM00426,Wholesales Index Durable Goods,2014Q4,10.828977231661668
+EITRADEWHOM00426,Wholesales Index Durable Goods,2015Q1,-9.77433074905133
+EITRADEWHOM00426,Wholesales Index Durable Goods,2015Q2,5.050283356593667
+EITRADEWHOM00426,Wholesales Index Durable Goods,2015Q3,5.859845886790661
+EITRADEWHOM00426,Wholesales Index Durable Goods,2015Q4,-3.327894895131332
+EITRADEWHOM00426,Wholesales Index Durable Goods,2016Q1,20.47375629468534
+EITRADEWHOM00426,Wholesales Index Durable Goods,2016Q2,4.34716611413334
+EITRADEWHOM00426,Wholesales Index Durable Goods,2016Q3,-16.46191171991535
+EITRADEWHOM00426,Wholesales Index Durable Goods,2016Q4,12.643147076615
+EITRADEWHOM00426,Wholesales Index Durable Goods,2017Q1,-8.409769043604664
+EITRADEWHOM00426,Wholesales Index Durable Goods,2017Q2,1.9530853066260079
+EITRADEWHOM00426,Wholesales Index Durable Goods,2017Q3,4.991621037405669
+EITRADEWHOM00426,Wholesales Index Durable Goods,2017Q4,-1.2048130682236813
+EITRADEWHOM00426,Wholesales Index Durable Goods,2018Q1,-2.2936069557929954
+EITRADEWHOM00426,Wholesales Index Durable Goods,2018Q2,-4.152585547991994
+EITRADEWHOM00426,Wholesales Index Durable Goods,2018Q3,-2.652716172395666
+EITRADEWHOM00426,Wholesales Index Durable Goods,2018Q4,-3.604514935281003
+EITRADEWHOM00426,Wholesales Index Durable Goods,2019Q1,9.206149318146677
+EITRADEWHOM00426,Wholesales Index Durable Goods,2019Q2,13.424781069257657
+EITRADEWHOM00426,Wholesales Index Durable Goods,2019Q3,-1.7022045966729895
+EITRADEWHOM00426,Wholesales Index Durable Goods,2019Q4,-9.04579047032695
+SETINDEXTHA,SET Index,2011Q1,8.252878548722984
+SETINDEXTHA,SET Index,2011Q2,21.326307223277013
+SETINDEXTHA,SET Index,2011Q3,-44.81797658586868
+SETINDEXTHA,SET Index,2011Q4,50.10533875538533
+SETINDEXTHA,SET Index,2012Q1,24.02358670810001
+SETINDEXTHA,SET Index,2012Q2,12.877022973306643
+SETINDEXTHA,SET Index,2012Q3,40.613591967213324
+SETINDEXTHA,SET Index,2012Q4,44.79060280032331
+SETINDEXTHA,SET Index,2013Q1,24.48672119500672
+SETINDEXTHA,SET Index,2013Q2,-18.243910367946683
+SETINDEXTHA,SET Index,2013Q3,-22.388534227603333
+SETINDEXTHA,SET Index,2013Q4,-15.374526403103346
+SETINDEXTHA,SET Index,2014Q1,-3.2743084676700014
+SETINDEXTHA,SET Index,2014Q2,51.06201664129003
+SETINDEXTHA,SET Index,2014Q3,35.81770451287662
+SETINDEXTHA,SET Index,2014Q4,-18.804710673963275
+SETINDEXTHA,SET Index,2015Q1,-21.984467690683385
+SETINDEXTHA,SET Index,2015Q2,10.433693731443327
+SETINDEXTHA,SET Index,2015Q3,-48.41504656674996
+SETINDEXTHA,SET Index,2015Q4,-11.696027719489999
+SETINDEXTHA,SET Index,2016Q1,20.36342385610995
+SETINDEXTHA,SET Index,2016Q2,19.79672566530333
+SETINDEXTHA,SET Index,2016Q3,16.18167897555668
+SETINDEXTHA,SET Index,2016Q4,26.199172687136677
+SETINDEXTHA,SET Index,2017Q1,-3.822307538996635
+SETINDEXTHA,SET Index,2017Q2,5.159788164189952
+SETINDEXTHA,SET Index,2017Q3,35.1438439386067
+SETINDEXTHA,SET Index,2017Q4,31.45380354343335
+SETINDEXTHA,SET Index,2018Q1,-2.551009919723356
+SETINDEXTHA,SET Index,2018Q2,-56.63599749954998
+SETINDEXTHA,SET Index,2018Q3,54.42236456913997
+SETINDEXTHA,SET Index,2018Q4,-59.94025654599667
+SETINDEXTHA,SET Index,2019Q1,17.864168518960014
+SETINDEXTHA,SET Index,2019Q2,32.603177049329965
+SETINDEXTHA,SET Index,2019Q3,-31.22634762510332
+SETINDEXTHA,SET Index,2019Q4,-13.833930833989976
