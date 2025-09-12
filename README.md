@@ -56,6 +56,20 @@ Each folder contains a Jupyter notebook for the corresponding step:
 4. Evaluation: Assess model performance and interpretability; generate figures and tables.
 5. Run the notebooks sequentially to reproduce the analysis and results.
 
+### Data Acquisition API Key
+
+The data acquisition notebook (`data-collection-thai-gdp-nowcasting.ipynb`) requires an API key from the Bank of Thailand (BOT) to access the official API.
+
+### How to get the API key:
+
+1. Navigate to the official BOT API Portal: https://apiportal.bot.or.th/bot/public/
+2. Register for an account and subscribe to the "BOT Public API" product.
+3. Generate your API key.
+
+### how to use the API key in the notebook:
+
+Simply insert your actual API key directly into the code where the placeholder text is located within the headers dictionary.
+
 ---
 
 ## Citation
