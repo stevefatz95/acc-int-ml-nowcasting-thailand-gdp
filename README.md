@@ -6,6 +6,7 @@ Pseudo real-time framework for GDP nowcasting in Thailand using machine learning
 
 ## Repository Structure
 
+```
 ├── README.md
 ├── requirements.txt
 ├── data-collection/
@@ -21,7 +22,7 @@ Pseudo real-time framework for GDP nowcasting in Thailand using machine learning
 ├── evaluation/
   ├── data/ # Datasets used for evaluation
   └── evaluation-nowcasting-thai-gdp.ipynb
-
+```
 
 ---
 
