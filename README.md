@@ -74,7 +74,7 @@ Simply insert your actual API key directly into the code where the placeholder t
 
 This notebook requires the X-13ARIMA-SEATS program for seasonal adjustment. It must be downloaded and installed separately.
 
-####cHow to download and install X-13ARIMA-SEATS:
+#### How to download and install X-13ARIMA-SEATS:
 
 1. Download the program from the official U.S. Census Bureau website: https://www.census.gov/data/software/x13as.html
 2. Follow the detailed installation instructions provided on the same page for your specific operating system (Windows, macOS, or Linux).
