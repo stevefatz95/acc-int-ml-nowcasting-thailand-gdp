@@ -56,19 +56,28 @@ Each folder contains a Jupyter notebook for the corresponding step:
 4. Evaluation: Assess model performance and interpretability; generate figures and tables.
 5. Run the notebooks sequentially to reproduce the analysis and results.
 
-### Data Acquisition API Key
+### Data Acquisition API Key (01-data-collection)
 
 The data acquisition notebook (`data-collection-thai-gdp-nowcasting.ipynb`) requires an API key from the Bank of Thailand (BOT) to access the official API.
 
-### How to get the API key:
+#### How to get the API key:
 
 1. Navigate to the official BOT API Portal: https://apiportal.bot.or.th/bot/public/
 2. Register for an account and subscribe to the "BOT Public API" product.
 3. Generate your API key.
 
-### how to use the API key in the notebook:
+#### how to use the API key in the notebook:
 
 Simply insert your actual API key directly into the code where the placeholder text is located within the headers dictionary.
+
+### Data Preprocessing (02-data-preprocessing)
+
+This notebook requires the X-13ARIMA-SEATS program for seasonal adjustment. It must be downloaded and installed separately.
+
+####cHow to download and install X-13ARIMA-SEATS:
+
+1. Download the program from the official U.S. Census Bureau website: https://www.census.gov/data/software/x13as.html
+2. Follow the detailed installation instructions provided on the same page for your specific operating system (Windows, macOS, or Linux).
 
 ---
 
